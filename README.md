@@ -14,7 +14,7 @@
 * 언어 - Java17<br>
 * 프레임워크/라이브러리 - Spring Boot, Spring Data JPA, Spring Security, Spring Boot Validation<br>
 * 데이터베이스 - MySQL, Oracle Cloud<br>
-* 프론트엔드 - Thymeleaf, html, css, javascript, jQuery, ajax, Bootstarp5, GoogleFont API, SweetAlert2<br>
+* 프론트엔드 - Thymeleaf, html, css, javascript, jQuery, ajax, Bootstrap5, GoogleFont API, SweetAlert2<br>
 * 개발도구 - IntelliJ<br>
 
 ## 담당 기능
