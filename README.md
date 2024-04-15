@@ -21,8 +21,10 @@
 
 * 경매글 작성페이지
   - validation과 javascript를 이용하여 서버와 클라이언트 양측에서 유효성 검사를 구현하여 **데이터 무결성 유지와 함께 서버 부하를 줄이고 사용자 경험 향상**
+
 * security를 사용해 권한에 따른 url 접근 제어
   - 로그인한 사용자를 위한 URL에 대한 접근 제어 처리를 위해 HttpSecurity를 활용하여 FilterChainSecurity 구성 
+
 * css와 부트스트랩을 통한 페이지 디자인
   
 
